@@ -14,7 +14,7 @@ const BLOG = {
   since: 1888, // If leave this empty, current year will be used.
   postsPerPage: 4,
   sortByDate: false,
-  showAbout: false,
+  showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
