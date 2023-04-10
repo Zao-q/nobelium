@@ -12,7 +12,7 @@ const BLOG = {
   darkBackground: '#686f67', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 1888, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 4,
   sortByDate: false,
   showAbout: false,
   showArchive: true,
