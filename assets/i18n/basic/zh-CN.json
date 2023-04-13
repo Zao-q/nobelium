@@ -2,8 +2,8 @@
   "NAV": {
     "INDEX": "博客",
     "RSS": "订阅",
-    "SEARCH": "搜索",
-    "ABOUT": "赞赏"
+    "SEARCH": "模糊搜索",
+    "ABOUT": "两种支持"
   },
   "PAGINATION": {
     "PREV": "上一页",
