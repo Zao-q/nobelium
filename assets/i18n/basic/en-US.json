@@ -2,8 +2,8 @@
   "NAV": {
     "INDEX": "Blog",
     "RSS": "RSS",
-    "SEARCH": "模糊搜索",
-    "ABOUT": "两种支持"
+    "SEARCH": "搜索",
+    "ABOUT": "支持"
   },
   "PAGINATION": {
     "PREV": "Prev",
