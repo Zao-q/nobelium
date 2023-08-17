@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'zao.ooo',
-  author: '石上蚤',
+  author: 'Zao.q',
   email: 'zao.zao.qi@gmail.com',
   link: 'https://zao.ooo',
   description: '',
