@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'zao.ooo',
-  author: 'Zao.q',
-  email: 'zao.zao.qi@gmail.com',
+  author: 'zao.q',
+  email: 'buan@tuta.io',
   link: 'https://zao.ooo',
   description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
