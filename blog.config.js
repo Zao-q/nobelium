@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '❝ㅤ❞',
+  title: '不安介质',
   author: 'zao.q',
   email: 'buan@tuta.io',
   link: 'https://zao.ooo',
