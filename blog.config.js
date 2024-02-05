@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'zao.ooo',
+  title: '❝ㅤㅤ❞',
   author: 'zao.q',
   email: 'buan@tuta.io',
   link: 'https://zao.ooo',
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'mailto:buan@tuta.io',
   seo: {
-    keywords: ['石上蚤', '王早起', 'zao.ooo'],
+    keywords: ['zao.q', '王早起', 'zao.ooo'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
