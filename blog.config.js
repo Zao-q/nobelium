@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '不安介质',
+  title: 'zao_q_',
   author: 'zao.q',
   email: 'buan@tuta.io',
   link: 'https://zao.ooo',
