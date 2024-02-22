@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'zao_',
-  author: 'zao.',
+  author: 'zao_',
   email: 'buan@tuta.io',
   link: 'https://zao.ooo',
   description: '',
