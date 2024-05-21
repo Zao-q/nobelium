@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'mailto:buan@tuta.io',
   seo: {
-    keywords: ['zao.q', '王早起', 'zao.ooo'],
+    keywords: ['zao.q', '不安介质', 'buanjiezhi'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
